@@ -17,7 +17,7 @@ Built for Qbox and uses ox_lib for notifications and cache management.
 
 ⚙️ Installation
 
-- Download the resource and put it in your resources folder, e.g. maskin_no_wheelie.
+- Download the resource and put it in your resources folder, e.g. maskin-antiwheelie.
 
 - Start in server.cfg:
 
