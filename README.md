@@ -21,8 +21,9 @@ Built for Qbox and uses ox_lib for notifications and cache management.
 
 - Start in server.cfg:
 
-** ensure ox_lib **
-** ensure maskin_no_wheelie **
+ensure ox_lib
+
+ensure maskin_no_wheelie
 
 🔧 Configuration
 
